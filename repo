@@ -6,5 +6,7 @@ apt install git && apt update
 apt upgrade
 echo ОБНОВЛЕНИЕ УСПЕШНО
 echo НАЧАЛО УСТАНОВКИ НУЖНЫХ БИБЛИОТЕК (2)
+apt install git
+apt install git -y
 pkg update 
-pkg upgrade
+echo ИНСТАЛЛЕР ЛИЦЕНЗИИ УСПЕШНО УСТАНОВЛЕН!!!  НАПИШИ АНДРЕЮ =) 
