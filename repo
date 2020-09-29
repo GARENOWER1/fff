@@ -1,0 +1,10 @@
+echo СПАСИБО ЗА УСТАНОВКУ
+echo СПАСИБО ЗА УСТАНОВКУ
+echo СПАСИБО ЗА УСТАНОВКУ
+echo НАЧАЛО УСТАНОВКИ НУЖНЫХ БИБЛИОТЕК
+apt install git && apt update
+apt upgrade
+echo ОБНОВЛЕНИЕ УСПЕШНО
+echo НАЧАЛО УСТАНОВКИ НУЖНЫХ БИБЛИОТЕК (2)
+pkg update 
+pkg upgrade
